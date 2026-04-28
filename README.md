@@ -1,8 +1,8 @@
 # pytebeat
-The Python version of Funcbeat.
+The Python version of Funcbeat. Yeah.
 
 ## Using it
-It's as simple as writing the code in `pbin.py`.
+It's as simple as writing the code in the song file located in the songs folder. Ok?
 
 ### Sample rate
 
